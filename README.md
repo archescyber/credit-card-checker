@@ -13,5 +13,6 @@ Rules And Terms Policies 🥈
 
 **6) Have fun using it, my friend.**
 
-Cyber Arches & Rowaniq. 
+Cyber Arches & Rowaniq <3
+
 
