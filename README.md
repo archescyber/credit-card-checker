@@ -1,5 +1,6 @@
 # credit-cardchecker 
-Designed by Cyber Arches & Rowaniq.
+Coded by Rovaniq and Arches.
+
 Contact: 
 Instagram @yusuf.cyw
 Terms of use: 
