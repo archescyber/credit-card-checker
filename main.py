@@ -4,7 +4,13 @@ import json
 from datetime import datetime
 
 # Clear Terminal.
-os.system('cls')
+def clear_console():
+    if os.name == 'nt':  # Windows
+        os.system('cls')
+    else:  # MacOS ve Linux
+        os.system('clear')
+
+clear_console()
 print("""
 
  ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░▒▓████████▓▒░                           
