@@ -1,5 +1,5 @@
 # credit-cardchecker *
-*Rules And Terms Policies 🥈*
+Rules And Terms Policies 🥈
 
 **1) We are not responsible for the use of generated card numbers CVV and expiration numbers.**
 
