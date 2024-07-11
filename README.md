@@ -1,8 +1,10 @@
 # credit-cardchecker 
 Coded by Rovaniq and Arches.
 
-Contact: 
+Contact </> 
+
 Instagram: @yusuf.cyw
+
 Dıscord: snoxyislegend.
 
 
