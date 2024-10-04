@@ -43,6 +43,8 @@ This tool is for educational purposes only. Do not use it for any illegal activi
 
 ## Contribution
 
+I would like to thank my friend Rovaniq for contributing to this project.
+
 Feel free to contribute to the project by submitting issues or pull requests. All contributions are welcome!   
 
 For communication, you can send feedback to my Instagram account named @yusuf.cyw
