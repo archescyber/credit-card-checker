@@ -14,8 +14,7 @@ This project is a Python-based tool that generates random numbers and checks if 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/archescyber/credit-card-checker/
+```git clone https://github.com/archescyber/credit-card-checker/
 ```
 2. Install the required dependencies:
 ```
