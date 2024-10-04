@@ -1,18 +1,18 @@
-# credit-cardchecker *
-Rules And Terms Policies 🥈
+# Credit Card Checker
 
-**1) We are not responsible for the use of generated card numbers CVV and expiration numbers.**
+## Description
 
-**2) Remember that you will be penalized if the numbers are misused.**
-   
-**3) Claiming that the code is yours by making a few changes only shows how pathetic you are.**
+This project is a Python-based tool that generates random numbers and checks if they are in a valid credit card format. The tool then categorizes the valid credit card numbers by bank names. It helps in validating credit card formats and understanding various bank identifiers.
 
-**4) It is coded using the Luhn algorithm, its accuracy is not certain, but you can reach the correct card in many tries.**
+## Features
 
-**5) Its use is risky and we do not accept responsibility for users.**
+- Generates random numbers to test against credit card formats.
+- Validates whether the generated numbers conform to standard credit card formats.
+- Categorizes valid credit card numbers based on bank names.
 
-**6) Have fun using it, my friend.**
+## Installation
 
-Cyber Arches & Rowaniq <3
+1. Clone the repository:
 
-
+   ```bash
+   git clone https://github.com/archescyber/credit-card-checker/
