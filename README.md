@@ -2,7 +2,11 @@
 
 ## Description
 
-This project is a Python-based tool that generates random numbers and checks if they are in a valid credit card format. The tool then categorizes the valid credit card numbers by bank names. It helps in validating credit card formats and understanding various bank identifiers.
+- This project is a Python-based tool that generates random numbers and checks if they are in a valid credit card format. 
+
+- The tool then categorizes the valid credit card numbers by bank names. 
+
+- It helps in validating credit card formats and understanding various bank identifiers.
 
 ## Features
 
